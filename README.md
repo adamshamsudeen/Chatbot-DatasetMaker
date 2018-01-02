@@ -1,6 +1,6 @@
-This code is a helper for sentdex deeplearning chatbot(https://www.youtube.com/watch?v=9os9uQJqDbI).
++ This is a helper code for building database in sentdex [deeplearning chatbot series](https://www.youtube.com/watch?v=9os9uQJqDbI).
 
-This code works ith the kaggle dataset(https://www.kaggle.com/reddit/reddit-comments-may-2015). Kaggle dataset extracts to a .sqlite file and does not work with the sentex code.
++ This code works ith the [kaggle dataset](https://www.kaggle.com/reddit/reddit-comments-may-2015). Kaggle dataset extracts to a .sqlite file and original code does not work with it.
 
 
 
